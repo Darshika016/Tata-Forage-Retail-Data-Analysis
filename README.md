@@ -42,10 +42,12 @@ To analyze retail store performance, identify top-selling products, understand c
 *(Insert dashboard screenshot here if available)*
 
 ## 📁 Folder Structure
+```
 📦 Tata Forage - Online Retail Data Analysis
 ├── Raw Dataset.xlsx
 ├── PowerBI Dashboard.pbix
 └── README.md
+```
 
 
 ## ✅ Conclusion
